@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
 </div>
 <div id="header" align="center">  
-  <a href="https://www.instagram.com/ваш_аккаунт" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:40px;height:40px;border:0;">
+<button style="padding: 10px 20px; background-color: #405DE6; color: white; border: none; border-radius: 5px; font-size: 16px;">Подписаться в Instagram</button>
   </a>
 </div>
