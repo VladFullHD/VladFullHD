@@ -2,11 +2,9 @@
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
-  <a href="https://www.instagram.com/kaminskiy_vlad/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
+<a href="https://www.instagram.com/kaminskiy_vlad/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:40px;height:40px;border:0;">
+</a>
 
 Here are some ideas to get you started:
 
